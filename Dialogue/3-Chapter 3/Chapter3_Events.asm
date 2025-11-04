@@ -575,7 +575,7 @@ dialogueCh3SeizeMadino2
 	.word ScrollBoth
 .text	"I cannot say for sure."
 	.byte NewLine
-.text	"He seems to hold no emnity toward you,"
+.text	"He seems to hold no enmity toward you,"
 	.byte NewLine
 .text	"but I am loath to consider him an ally..."
 
